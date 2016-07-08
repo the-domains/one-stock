@@ -1,0 +1,14 @@
+layout_spectrum: 0.9179631383158267
+typography_spectrum: 0.9202277823351324
+color:
+  brandStrength: 0.9462702281307429
+  lightness: 0.2947251887526363
+  saturation: 0.12524286308325827
+  rhythmicContrast: 0.9578374237753451
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: One Stock
